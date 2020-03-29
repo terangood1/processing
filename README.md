@@ -1,8 +1,6 @@
 # processing
 
 
-'''c
-
 void setup(){
   size(800,400);
   textSize(128);
@@ -18,4 +16,3 @@ void draw(){
     i =0;
 }
 
-'''
