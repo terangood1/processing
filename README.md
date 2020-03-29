@@ -2,6 +2,7 @@
 
 
 '''c
+
 void setup(){
   size(800,400);
   textSize(128);
@@ -16,4 +17,5 @@ void draw(){
   if(i>800 || i <0) 
     i =0;
 }
+
 '''
